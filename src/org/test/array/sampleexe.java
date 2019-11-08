@@ -10,6 +10,8 @@ public class sampleexe {
 				for (int i=0;i<=a.length;i++)
 				    sum=sum + i;
 				System.out.println("The sum is " + sum);
+				System.out.println("error");
+				System.out.println("hjgjh");
 				
 				
 		}
